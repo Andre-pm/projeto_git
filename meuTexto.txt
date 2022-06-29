@@ -1,3 +1,4 @@
 Olá, Git!  
 
-VAscão
+Fazer um aplicativo para a empresa de viagens do meu pai
+Algo que possibilite marcar viagens, compartilhar fotos etc.
